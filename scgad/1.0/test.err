@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "train_cross.py", line 11, in <module>
+    from sklearn.cluster import KMeans
+ModuleNotFoundError: No module named 'sklearn'
