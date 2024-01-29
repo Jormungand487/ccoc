@@ -1,0 +1,124 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 4 (23.2.0.2428915) 64-bit (glnxa64)
+                              October 23, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+source =
+
+    'ex1'
+
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 64 workers.
+
+t =
+
+     1
+
+
+t =
+
+     2
+
+
+t =
+
+     3
+
+
+t =
+
+     4
+
+
+t =
+
+     5
+
+
+t =
+
+     6
+
+
+t =
+
+     7
+
+
+t =
+
+     8
+
+
+t =
+
+     9
+
+
+t =
+
+    10
+
+
+t =
+
+    11
+
+
+t =
+
+    12
+
+
+t =
+
+    13
+
+
+t =
+
+    14
+
+
+t =
+
+    15
+
+
+t =
+
+    16
+
+
+t =
+
+    17
+
+
+t =
+
+    18
+
+
+t =
+
+    19
+
+
+t =
+
+    20
+
+Parallel pool using the 'Processes' profile is shutting down.
+{Error using save
+Variable 'xstring' not found.
+
+Error in real_data_results (line 43)
+save(['../../data/',source,'/xstring.mat'],"xstring");
+} 

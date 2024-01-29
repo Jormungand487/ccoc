@@ -1,0 +1,14 @@
+#!/bin/sh
+#PBS -N testR
+#PBS -l nodes=1:ppn=20
+#PBS -q normal_19
+#PBS -l walltime=10:00:00
+#PBS -o out
+#PBS -e err
+
+
+source ~/.bashrc
+conda activate useR
+cd $PBS_O_WORKDIR
+NPROCS=`wc -l < $PBS_NODEFILE`
+Rscript preprocess.R

@@ -1,0 +1,12 @@
+#!/bin/sh
+#PBS -N real_data_results
+#PBS -l nodes=1:ppn=64
+#PBS -q ims_pub
+#PBS -j oe
+#PBS -l walltime=100:00:00
+
+cd $PBS_O_WORKDIR
+NPROCS='wc -l < $PBS_NODEFILE'
+module load apps/matlab/2023b
+
+matlab -nodesktop -nosplash -nodisplay -r real_data_results

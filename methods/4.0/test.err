@@ -1,0 +1,52 @@
+{Error using accumarray
+Second input VAL must be a vector with one element for each row in SUBS, or a
+scalar.
+
+Error in updateTildep_plus (line 9)
+cluster_p = accumarray(subs, val(:));
+
+Error in coupleCoC_plus (line 43)
+  [tilde_p, cluster_p] = updateTildep_plus(p, Cx, Cz);
+
+Error in real_data_results (line 34)
+[Cy, Cz, Cz0, cluster_p, cluster_q, cluster_q0] = coupleCoC_plus(p,q,q0,Cx_truth,nrowcluster2,ncolcluster,ncolcluster0,iter,lambda,beta);
+} 
+{Error using accumarray
+Second input VAL must be a vector with one element for each row in SUBS, or a
+scalar.
+
+Error in updateTildep_plus (line 9)
+cluster_p = accumarray(subs, val(:));
+
+Error in coupleCoC_plus (line 43)
+  [tilde_p, cluster_p] = updateTildep_plus(p, Cx, Cz);
+
+Error in real_data_results (line 34)
+[Cy, Cz, Cz0, cluster_p, cluster_q, cluster_q0] = coupleCoC_plus(p,q,q0,Cx_truth,nrowcluster2,ncolcluster,ncolcluster0,iter,lambda,beta);
+} 
+{Error using accumarray
+Second input VAL must be a vector with one element for each row in SUBS, or a
+scalar.
+
+Error in updateTildep_plus (line 11)
+cluster_p = accumarray(subs, val(:));
+
+Error in coupleCoC_plus (line 43)
+  [tilde_p, cluster_p] = updateTildep_plus(p, Cx, Cz);
+
+Error in real_data_results (line 34)
+[Cy, Cz, Cz0, cluster_p, cluster_q, cluster_q0] = coupleCoC_plus(p,q,q0,Cx_truth,nrowcluster2,ncolcluster,ncolcluster0,iter,lambda,beta);
+} 
+{Error using accumarray
+Second input VAL must be a vector with one element for each row in SUBS, or a
+scalar.
+
+Error in updateTildep_plus (line 7)
+cluster_p = accumarray(subs, val(:));
+
+Error in coupleCoC_plus (line 43)
+  [tilde_p, cluster_p] = updateTildep_plus(p, Cx, Cz);
+
+Error in real_data_results (line 34)
+[Cy, Cz, Cz0, cluster_p, cluster_q, cluster_q0] = coupleCoC_plus(p,q,q0,Cx_truth,nrowcluster2,ncolcluster,ncolcluster0,iter,lambda,beta);
+} 

@@ -1,0 +1,1780 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 1 (9.11.0.1809720) 64-bit (glnxa64)
+                              November 2, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 64).
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     1
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     2
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     3
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     4
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     5
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     6
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     7
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     8
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     9
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    10
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    11
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    12
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    13
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    14
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    15
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    16
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    17
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    18
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    19
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+    20
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+Parallel pool using the 'local' profile is shutting down.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 1 (9.11.0.1809720) 64-bit (glnxa64)
+                              November 2, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 64).
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     1
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     2
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     3
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     4
+
+
+ans =
+
+      119974           2
+
+
+ans =
+
+        2237      119974
+
+[Warning: Error occurred while executing the listener callback for event
+ObjectBeingDestroyed defined for class parallel.settings.Profile:
+Invalid or deleted object.
+
+Error in parallel.Cluster/handleProfileDeleted (line 439)
+            obj.ProfileObject = parallel.settings.Profile.empty();
+
+Error in parallel.Cluster>@(~,~)obj.handleProfileDeleted() (line 434)
+                    @(~, ~) obj.handleProfileDeleted() );] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 1 (9.11.0.1809720) 64-bit (glnxa64)
+                              November 2, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 64).
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     1
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     2
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     3
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     4
+
+
+ans =
+
+      119974           2
+
+
+ans =
+
+        2237      119974
+
+[Warning: Error occurred while executing the listener callback for event
+ObjectBeingDestroyed defined for class parallel.settings.Profile:
+Invalid or deleted object.
+
+Error in parallel.Cluster/handleProfileDeleted (line 439)
+            obj.ProfileObject = parallel.settings.Profile.empty();
+
+Error in parallel.Cluster>@(~,~)obj.handleProfileDeleted() (line 434)
+                    @(~, ~) obj.handleProfileDeleted() );] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 1 (9.11.0.1809720) 64-bit (glnxa64)
+                              November 2, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 64).
+
+ans =
+
+      119974           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2000           1
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     1
+
+
+ans =
+
+      119974           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2000           1
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     2
+
+
+ans =
+
+      119974           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2000           1
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     3
+
+
+ans =
+
+      119974           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   268381838           2
+
+
+ans =
+
+        2237      119974
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2237           1
+
+
+ans =
+
+   193938952           2
+
+
+ans =
+
+        2237       86696
+
+
+ans =
+
+       86696           1
+
+
+ans =
+
+        2000           1
+
+
+ans =
+
+   173392000           2
+
+
+ans =
+
+        2000       86696
+
+
+t =
+
+     4
+
+
+ans =
+
+      119974           1
+
+
+ans =
+
+     1     1
+
+
+ans =
+
+      119974           2
+
+
+ans =
+
+        2237      119974
+
+[Warning: Error occurred while executing the listener callback for event
+ObjectBeingDestroyed defined for class parallel.settings.Profile:
+Invalid or deleted object.
+
+Error in parallel.Cluster/handleProfileDeleted (line 439)
+            obj.ProfileObject = parallel.settings.Profile.empty();
+
+Error in parallel.Cluster>@(~,~)obj.handleProfileDeleted() (line 434)
+                    @(~, ~) obj.handleProfileDeleted() );] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 1 (9.11.0.1809720) 64-bit (glnxa64)
+                              November 2, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 64).
+
+t =
+
+     1
+
+
+ans =
+
+          15        2237
+
+
+ans =
+
+          15        2237
+
+
+t =
+
+     2
+
+
+ans =
+
+          15        2237
+
+
+ans =
+
+          15        2237
+
+
+t =
+
+     3
+
+
+ans =
+
+           7        2237
+
+
+ans =
+
+           7        2237
+
+
+t =
+
+     4
+
+
+ans =
+
+           1        2237
+
+
+ans =
+
+           1        2237
+
+[Warning: Error occurred while executing the listener callback for event
+ObjectBeingDestroyed defined for class parallel.settings.Profile:
+Invalid or deleted object.
+
+Error in parallel.Cluster/handleProfileDeleted (line 439)
+            obj.ProfileObject = parallel.settings.Profile.empty();
+
+Error in parallel.Cluster>@(~,~)obj.handleProfileDeleted() (line 434)
+                    @(~, ~) obj.handleProfileDeleted() );] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2021 The MathWorks, Inc.
+             R2021b Update 1 (9.11.0.1809720) 64-bit (glnxa64)
+                              November 2, 2021
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 64).
+
+t =
+
+     1
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     2
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     3
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     4
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     5
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     6
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     7
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     8
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+     9
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    10
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    11
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    12
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    13
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    14
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    15
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    16
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    17
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    18
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    19
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+
+t =
+
+    20
+
+
+ans =
+
+      119974        2237
+
+
+ans =
+
+      119974          14
+
+Parallel pool using the 'local' profile is shutting down.
